@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "257196102688",
+    "project_id": "ifchat-2fd12",
+    "storage_bucket": "ifchat-2fd12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257196102688:android:cb8d2d88e407c5b27d5845",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx00w5wDdm-wHTxxUnaVGJnDJRJ5hqetw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
